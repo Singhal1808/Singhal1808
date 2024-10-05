@@ -65,22 +65,23 @@
 </div>
 <hr>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<br/>
 <table align="center">
   <tr>
     <td>
       <div style="width: 300px; height: 180px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=singhal1808&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=singhal1808&show_icons=true&theme=react&border_radius=10&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
       </div>
     </td>
     <td>
       <div style="width: 300px; height: 180px; overflow: hidden;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhal1808&" alt="Streak Stats" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhal1808&theme=react&border_radius=10" alt="Streak Stats" style="width: 100%; height: auto;" />
       </div>
     </td>
     <td>
       <div style="width: 400px; height: 180px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal1808&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal1808&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" style="width: 100%; height: auto;" />
       </div>
     </td>
   </tr>
