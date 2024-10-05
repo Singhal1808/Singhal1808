@@ -8,36 +8,29 @@
 <hr>
 
 <h3 align="center">Languages & Technologies</h3>
-<p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-    </a>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" width="40" height="40"/>
+</div>
+
 <hr>
+
+
+
+
+
+
+
 
 <h3 align="center">My Achievements</h3>
 <p align="center" style="margin: 20px 0;">
