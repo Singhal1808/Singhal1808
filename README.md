@@ -39,7 +39,7 @@
 <h3 align="center">My Achievements</h3>
 <p align="center" style="margin: 20px 0;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=singhal1808&row=1&column=10" alt="Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=singhal1808&row=1&column=9" alt="Trophies" />
     </a>
 </p>
 
@@ -47,31 +47,34 @@
 <h3 align="center">Competitive Programming Profiles</h3>
 <div align="center">
     
-| Platform       | Ratings                        |
+| Platform       | Contest Rating                |
 |----------------|-------------------------------|
-| <a href="https://www.leetcode.com/singhal_1808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50"/></a> | **Ratings:** 1500<br>⭐⭐⭐⭐ |
-| <a href="https://www.geeksforgeeks.org/user/singhal_1808/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="50" width="50"/></a> | **Ratings:** 2000<br>⭐⭐⭐⭐ |
-| <a href="https://codeforces.com/profile/2022ucp1432" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="50"/></a> | **Ratings:** 2500<br>⭐⭐⭐⭐⭐ |
-| <a href="https://www.codechef.com/users/singhal_1808" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50"/></a> | **Ratings:** 3000<br>⭐⭐⭐⭐ |
+| <a href="https://www.geeksforgeeks.org/user/singhal_1808/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="50" width="50"/></a> | **Ratings:** 1844<br>⭐⭐⭐⭐ |
+| <a href="https://www.leetcode.com/singhal_1808" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50"/></a> | **Ratings:** 1507<br>⭐⭐⭐ |
+| <a href="https://www.codechef.com/users/singhal_1808" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50"/></a> | **Ratings:** 1402<br>⭐⭐ |
+| <a href="https://codeforces.com/profile/2022ucp1432" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="50"/></a> | **Ratings:** 1072<br>⭐ |
 </div>
 
 <h3 align="center">GitHub Stats</h3>
 <table align="center">
   <tr>
     <td>
-      <div style="width: 300px; height: 150px; overflow: hidden;">
+      <div style="width: 300px; height: 180px; overflow: hidden;">
         <img src="https://github-readme-stats.vercel.app/api?username=singhal1808&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%; height: auto;" />
       </div>
     </td>
     <td>
-      <div style="width: 300px; height: 150px; overflow: hidden;">
+      <div style="width: 300px; height: 180px; overflow: hidden;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhal1808&" alt="Streak Stats" style="width: 100%; height: auto;" />
       </div>
     </td>
     <td>
-      <div style="width: 300px; height: 150px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal1808&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: 150px;" />
+      <div style="width: 400px; height: 180px; overflow: hidden;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhal1808&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 100%; height: auto;" />
       </div>
     </td>
   </tr>
 </table>
+
+
+
