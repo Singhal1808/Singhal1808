@@ -43,7 +43,7 @@
 
 <h3 align="center">Holopin Badges</h3>
 <div align="center">
-    <a href="https://holopin.io/@singhal1808" target="_blank">
+    <a href="https://holopin.me/singhal1808" target="_blank">
         <img src="https://holopin.me/singhal1808" alt="Holopin Badge" width="500" height="auto"/>
     </a>
 </div>
