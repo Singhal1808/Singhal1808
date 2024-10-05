@@ -2,8 +2,10 @@
     <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="50%" height="auto" alt="Your GIF Description">
 </div>
 
+
 <h1 align="center">Hi 👋, I'm Abhinav Singhal</h1>
 <h3 align="center">I am a 3rd-year B.Tech student in Computer Science at MNIT Jaipur, passionate about competitive coding, frontend development, and contributing to open source.</h3>
+<hr>
 
 <h3 align="center">Languages & Technologies</h3>
 <p align="center">
@@ -35,6 +37,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
     </a>
 </p>
+<hr>
 
 <h3 align="center">My Achievements</h3>
 <p align="center" style="margin: 20px 0;">
@@ -42,6 +45,19 @@
         <img src="https://github-profile-trophy.vercel.app/?username=singhal1808&row=1&column=9" alt="Trophies" />
     </a>
 </p>
+<hr>
+
+
+<h3 align="center">Holopin Badges</h3>
+<div align="center">
+    <a href="https://holopin.io/@singhal1808" target="_blank">
+        <img src="https://holopin.me/singhal1808" alt="Holopin Badge" width="500" height="auto"/>
+    </a>
+</div>
+<hr>
+
+
+
 
 
 <h3 align="center">Competitive Programming Profiles</h3>
@@ -54,6 +70,7 @@
 | <a href="https://www.codechef.com/users/singhal_1808" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50"/></a> | **Ratings:** 1402<br>⭐⭐ |
 | <a href="https://codeforces.com/profile/2022ucp1432" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="50"/></a> | **Ratings:** 1072<br>⭐ |
 </div>
+<hr>
 
 <h3 align="center">GitHub Stats</h3>
 <table align="center">
@@ -75,6 +92,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 
