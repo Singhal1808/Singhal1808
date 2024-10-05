@@ -39,9 +39,10 @@
 <h3 align="center">My Achievements</h3>
 <p align="center" style="margin: 20px 0;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=singhal1808" alt="Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=singhal1808&row=1&column=10" alt="Trophies" />
     </a>
 </p>
+
 
 <h3 align="center">Competitive Programming Profiles</h3>
 <div align="center">
