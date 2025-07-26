@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhinav Singhal</h1>
-<h3 align="center">I am a 3rd-year B.Tech student in Computer Science at MNIT Jaipur, passionate about competitive coding, frontend development, and contributing to open source.</h3>
+<h3 align="center">I am a Final Year B.Tech student in Computer Science at MNIT Jaipur, passionate about competitive coding, software development, and contributing to open source.</h3>
 <hr>
 
 <h3 align="center">Languages & Technologies</h3>
